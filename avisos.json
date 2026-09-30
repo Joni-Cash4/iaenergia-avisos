@@ -6,27 +6,9 @@
       "badge": "Último día",
       "scope": "Pais Vasco",
       "title": "Ayuda EVE de autoconsumo y electrificacion termica: cierra hoy",
-      "description": "El plazo para solicitar la ayuda del Ente Vasco de la Energia a la generacion electrica para autoconsumo y la electrificacion de consumos termicos (hasta 600 euros por kWp) termina hoy, 30 de septiembre. El presupuesto de 80 millones de euros esta proximo a agotarse segun aviso oficial del EVE.",
+      "description": "El plazo para solicitar la ayuda del Ente Vasco de la Energia a la generacion electrica para autoconsumo y la electrificacion de consumos termicos termina hoy, 30 de septiembre, o antes si se agota el presupuesto de 80 millones de euros. El propio EVE avisa de que las solicitudes recientes tienen una alta probabilidad de no contar con fondos suficientes.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-la-generacion-electrica-para-autoconsumo-y-la-electrificacion-de-los-consumos-termicos-mediante-energias-renovables/"
-    },
-    {
-      "severity": "crit",
-      "badge": "Último día",
-      "scope": "Pais Vasco · Gipuzkoa",
-      "title": "Incentivos al autoconsumo de la Diputacion Foral de Gipuzkoa: cierra hoy",
-      "description": "El programa foral de incentivos al autoconsumo de la Diputacion Foral de Gipuzkoa, distinto del programa del EVE, tiene su plazo referenciado hasta hoy, 30 de septiembre. El importe de la ayuda no esta confirmado en fuente oficial.",
-      "sourceLabel": "Diputacion Foral de Gipuzkoa",
-      "sourceUrl": "https://www.gipuzkoa.eus/es/web/ingurumena/programa-incentivos-autoconsumo"
-    },
-    {
-      "severity": "warn",
-      "badge": "Confirmado hoy",
-      "scope": "Estatal",
-      "title": "La tarifa regulada del gas (TUR) sube un maximo del 15% desde manana",
-      "description": "El Ministerio de Hacienda ha confirmado hoy que el nuevo decreto aprobado por el Gobierno limita al 15% la subida de la tarifa de ultimo recurso del gas natural, que se revisa manana 1 de octubre, muy por debajo del 45-54% que se temia. El numero exacto del decreto y su publicacion formal en el BOE aun no estan confirmados.",
-      "sourceLabel": "Ministerio de Hacienda",
-      "sourceUrl": "https://www.hacienda.gob.es/en-gb/prensa/noticias/paginas/2026/20260929-np-cm-medidas-fiscales.aspx"
     },
     {
       "severity": "warn",
