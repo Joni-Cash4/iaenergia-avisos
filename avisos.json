@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-30",
+  "urgentDeadlines": [
+    {
+      "severity": "crit",
+      "badge": "Último día",
+      "scope": "Pais Vasco",
+      "title": "Ayuda EVE de autoconsumo y electrificacion termica: cierra hoy",
+      "description": "El plazo para solicitar la ayuda del Ente Vasco de la Energia a la generacion electrica para autoconsumo y la electrificacion de consumos termicos (hasta 600 euros por kWp) termina hoy, 30 de septiembre. El presupuesto de 80 millones de euros esta proximo a agotarse segun aviso oficial del EVE.",
+      "sourceLabel": "EVE - Ente Vasco de la Energia",
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-la-generacion-electrica-para-autoconsumo-y-la-electrificacion-de-los-consumos-termicos-mediante-energias-renovables/"
+    },
+    {
+      "severity": "crit",
+      "badge": "Último día",
+      "scope": "Pais Vasco · Gipuzkoa",
+      "title": "Incentivos al autoconsumo de la Diputacion Foral de Gipuzkoa: cierra hoy",
+      "description": "El programa foral de incentivos al autoconsumo de la Diputacion Foral de Gipuzkoa, distinto del programa del EVE, tiene su plazo referenciado hasta hoy, 30 de septiembre. El importe de la ayuda no esta confirmado en fuente oficial.",
+      "sourceLabel": "Diputacion Foral de Gipuzkoa",
+      "sourceUrl": "https://www.gipuzkoa.eus/es/web/ingurumena/programa-incentivos-autoconsumo"
+    },
+    {
+      "severity": "warn",
+      "badge": "Confirmado hoy",
+      "scope": "Estatal",
+      "title": "La tarifa regulada del gas (TUR) sube un maximo del 15% desde manana",
+      "description": "El Ministerio de Hacienda ha confirmado hoy que el nuevo decreto aprobado por el Gobierno limita al 15% la subida de la tarifa de ultimo recurso del gas natural, que se revisa manana 1 de octubre, muy por debajo del 45-54% que se temia. El numero exacto del decreto y su publicacion formal en el BOE aun no estan confirmados.",
+      "sourceLabel": "Ministerio de Hacienda",
+      "sourceUrl": "https://www.hacienda.gob.es/en-gb/prensa/noticias/paginas/2026/20260929-np-cm-medidas-fiscales.aspx"
+    },
+    {
+      "severity": "warn",
+      "badge": "Abre mañana",
+      "scope": "Estatal · Autonomos y empresas",
+      "title": "Plan Auto+ Linea 2: solicitudes desde manana para vehiculo electrico",
+      "description": "La Linea 2 del programa estatal Auto+, dirigida a autonomos y empresas que compren un vehiculo electrico o electrificado, abre el plazo de solicitud manana 1 de octubre a las 10:00h, con ayudas de hasta 7.500 euros por vehiculo y una dotacion de 50 millones de euros.",
+      "sourceLabel": "Base de Datos Nacional de Subvenciones",
+      "sourceUrl": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/931088"
+    }
+  ]
+}
