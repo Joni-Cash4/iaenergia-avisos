@@ -1,23 +1,32 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "urgentDeadlines": [
     {
-      "severity": "crit",
-      "badge": "Último día",
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
       "scope": "Pais Vasco",
-      "title": "Ayuda EVE de autoconsumo y electrificacion termica: cierra hoy",
-      "description": "El plazo para solicitar la ayuda del Ente Vasco de la Energia a la generacion electrica para autoconsumo y la electrificacion de consumos termicos termina hoy, 30 de septiembre, o antes si se agota el presupuesto de 80 millones de euros. El propio EVE avisa de que las solicitudes recientes tienen una alta probabilidad de no contar con fondos suficientes.",
+      "title": "Ayuda EVE a la eficiencia energetica en la industria",
+      "description": "El Ente Vasco de la Energia mantiene abierta hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en la industria vasca, con cobertura de entre el 15% y el 65% de la inversion elegible y un maximo de 4 millones de euros por beneficiario.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
-      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-la-generacion-electrica-para-autoconsumo-y-la-electrificacion-de-los-consumos-termicos-mediante-energias-renovables/"
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
     },
     {
-      "severity": "warn",
-      "badge": "Abre mañana",
+      "severity": "crit",
+      "badge": "Vigente desde hoy",
+      "scope": "Estatal",
+      "title": "La revision de la tarifa regulada del gas queda limitada",
+      "description": "El Real Decreto-ley 25/2026 limita a un maximo del 35% el incremento del termino de materia prima de la tarifa regulada del gas (TUR) en la revision de hoy, 1 de octubre, frente a la de junio de 2026, y a un maximo del 15% en la siguiente revision de enero de 2027.",
+      "sourceLabel": "BOE - Real Decreto-ley 25/2026",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
+    },
+    {
+      "severity": "crit",
+      "badge": "Abre hoy",
       "scope": "Estatal · Autonomos y empresas",
-      "title": "Plan Auto+ Linea 2: solicitudes desde manana para vehiculo electrico",
-      "description": "La Linea 2 del programa estatal Auto+, dirigida a autonomos y empresas que compren un vehiculo electrico o electrificado, abre el plazo de solicitud manana 1 de octubre a las 10:00h, con ayudas de hasta 7.500 euros por vehiculo y una dotacion de 50 millones de euros.",
-      "sourceLabel": "Base de Datos Nacional de Subvenciones",
-      "sourceUrl": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/931088"
+      "title": "Plan Auto+ Linea 2: ayudas al vehiculo electrico para autonomos y empresas",
+      "description": "Desde las 10:00h de hoy y hasta el 31 de diciembre de 2026 (o agotamiento de fondos), autonomos y empresas pueden solicitar la Linea 2 del programa Auto+, con ayudas de hasta 6.000 euros por turismo y 7.500 euros por furgoneta para autonomos y microempresas, y una dotacion total de 50 millones de euros.",
+      "sourceLabel": "BOE - Real Decreto 609/2026 y extracto de la convocatoria",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
     }
   ]
 }
