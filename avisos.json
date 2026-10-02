@@ -1,32 +1,23 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "urgentDeadlines": [
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
       "scope": "Pais Vasco",
       "title": "Ayuda EVE a la eficiencia energetica en la industria",
-      "description": "El Ente Vasco de la Energia mantiene abierta hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en la industria vasca, con cobertura de entre el 15% y el 65% de la inversion elegible y un maximo de 4 millones de euros por beneficiario.",
+      "description": "El Ente Vasco de la Energia mantiene abierta hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por proyecto.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
     },
     {
-      "severity": "crit",
-      "badge": "Vigente desde hoy",
-      "scope": "Estatal",
-      "title": "La revision de la tarifa regulada del gas queda limitada",
-      "description": "El Real Decreto-ley 25/2026 limita a un maximo del 35% el incremento del termino de materia prima de la tarifa regulada del gas (TUR) en la revision de hoy, 1 de octubre, frente a la de junio de 2026, y a un maximo del 15% en la siguiente revision de enero de 2027.",
-      "sourceLabel": "BOE - Real Decreto-ley 25/2026",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
-    },
-    {
-      "severity": "crit",
-      "badge": "Abre hoy",
-      "scope": "Estatal · Autonomos y empresas",
-      "title": "Plan Auto+ Linea 2: ayudas al vehiculo electrico para autonomos y empresas",
-      "description": "Desde las 10:00h de hoy y hasta el 31 de diciembre de 2026 (o agotamiento de fondos), autonomos y empresas pueden solicitar la Linea 2 del programa Auto+, con ayudas de hasta 6.000 euros por turismo y 7.500 euros por furgoneta para autonomos y microempresas, y una dotacion total de 50 millones de euros.",
-      "sourceLabel": "BOE - Real Decreto 609/2026 y extracto de la convocatoria",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
+      "scope": "Pais Vasco",
+      "title": "Ayuda a auditorias energeticas en pymes vascas",
+      "description": "El programa de auditorias energeticas integrales para pymes vascas financia el 50% del coste de la auditoria, con un importe maximo que va desde 3.300 euros hasta 9.800 euros segun el consumo energetico anual de la instalacion.",
+      "sourceLabel": "SPRI / EVE - Ente Vasco de la Energia",
+      "sourceUrl": "https://www.spri.eus/es/blog/financiacion/ayudas-para-realizar-auditorias-energeticas-en-pymes-industriales-y-del-sector-terciario/"
     }
   ]
 }
