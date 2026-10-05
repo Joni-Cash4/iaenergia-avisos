@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "urgentDeadlines": [
     {
       "severity": "warn",
@@ -18,6 +18,33 @@
       "description": "El programa de auditorias energeticas integrales para pymes vascas financia el 50% del coste de la auditoria, con un importe maximo que va desde 3.300 euros hasta 9.800 euros segun el consumo energetico anual de la instalacion.",
       "sourceLabel": "SPRI / EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.spri.eus/es/blog/financiacion/ayudas-para-realizar-auditorias-energeticas-en-pymes-industriales-y-del-sector-terciario/"
+    },
+    {
+      "severity": "warn",
+      "badge": "Cierra pronto",
+      "scope": "Estatal / Particulares",
+      "title": "Programa Auto+ Linea 1: plazo de solicitud hasta el 15 de octubre",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares tiene como fecha limite de solicitud el 15 de octubre de 2026, prorrogable hasta el 31 de diciembre solo si el credito de la convocatoria tiene la condicion de incorporable.",
+      "sourceLabel": "Real Decreto 609/2026 (BOE)",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
+    },
+    {
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
+      "scope": "Estatal / Autonomos y empresas",
+      "title": "Programa Auto+ Linea 2: ayudas para autonomos y empresas",
+      "description": "La linea del programa Auto+ para autonomos y empresas, con 50 millones de euros de presupuesto, acepta solicitudes desde el 1 de octubre a las 10:00 hasta el 31 de diciembre de 2026 a las 14:00, por orden de presentacion.",
+      "sourceLabel": "Extracto de convocatoria (BOE)",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30841"
+    },
+    {
+      "severity": "warn",
+      "badge": "Cambio en vigor",
+      "scope": "Estatal",
+      "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre",
+      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
+      "sourceLabel": "Real Decreto-ley 25/2026 (BOE)",
+      "sourceUrl": "https://www.boe.es/boe/dias/2026/09/30/pdfs/BOE-A-2026-20265.pdf"
     }
   ]
 }
