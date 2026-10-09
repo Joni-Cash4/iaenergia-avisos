@@ -1,32 +1,23 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "urgentDeadlines": [
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
       "scope": "Pais Vasco",
       "title": "Ayuda EVE a la eficiencia energetica en la industria",
-      "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por proyecto.",
+      "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
     },
     {
-      "severity": "crit",
-      "badge": "Cierra pronto",
-      "scope": "Estatal / Particulares",
-      "title": "Programa Auto+ Linea 1: quedan 7 dias para el plazo de solicitud",
-      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares tiene como fecha limite de solicitud el 15 de octubre de 2026, prorrogable hasta el 31 de diciembre solo si el credito de la convocatoria tiene la condicion de incorporable. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
-      "sourceLabel": "Real Decreto 609/2026 (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
-    },
-    {
       "severity": "warn",
-      "badge": "Convocatoria abierta",
-      "scope": "Estatal / Autonomos y empresas",
-      "title": "Programa Auto+ Linea 2: ayudas para autonomos y empresas",
-      "description": "La linea del programa Auto+ para autonomos y empresas, con 50 millones de euros de presupuesto, acepta solicitudes desde el 1 de octubre a las 10:00 hasta el 31 de diciembre de 2026 a las 14:00, por orden de presentacion.",
-      "sourceLabel": "Extracto de convocatoria (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30841"
+      "badge": "Fondos por orden de solicitud",
+      "scope": "Estatal / Particulares",
+      "title": "Programa Auto+ Linea 1: el plazo llega hasta el 31 de diciembre, por orden de solicitud",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares acepta solicitudes hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto maximo de 350 millones de euros para esta convocatoria. El importe de cada ayuda depende del tipo de vehiculo, su electrificacion y su precio.",
+      "sourceLabel": "La Moncloa - Ministerio de Industria y Turismo",
+      "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/Paginas/2026/plan-auto-plus-requisitos.aspx"
     },
     {
       "severity": "warn",
@@ -36,15 +27,6 @@
       "description": "El programa INNOVAE del IDAE, dotado con 115 millones de euros para proyectos de movilidad sostenible, sector industrial, rehabilitacion de edificios terciarios y sustitucion de equipos de frio, acepta solicitudes hasta el 18 de noviembre de 2026 a las 12:00.",
       "sourceLabel": "IDAE",
       "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
-    },
-    {
-      "severity": "warn",
-      "badge": "Cambio en vigor",
-      "scope": "Estatal",
-      "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre",
-      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
-      "sourceLabel": "Real Decreto-ley 25/2026 (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
     }
   ]
 }
