@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-14",
   "urgentDeadlines": [
     {
       "severity": "warn",
@@ -12,10 +12,10 @@
     },
     {
       "severity": "crit",
-      "badge": "Cierra pronto",
+      "badge": "Cierra mañana",
       "scope": "Estatal / Particulares",
-      "title": "Programa Auto+ Linea 1: quedan 7 dias para el plazo de solicitud",
-      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares tiene como fecha limite de solicitud el 15 de octubre de 2026, prorrogable hasta el 31 de diciembre solo si el credito de la convocatoria tiene la condicion de incorporable. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
+      "title": "Programa Auto+ Linea 1: el plazo ordinario de solicitud termina el 15 de octubre",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares tiene como fecha limite ordinaria de solicitud el 15 de octubre de 2026 a las 14:00 horas, prorrogable hasta el 31 de diciembre solo si en esa fecha queda credito disponible en la convocatoria. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
       "sourceLabel": "Real Decreto 609/2026 (BOE)",
       "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
     },
