@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-15",
   "urgentDeadlines": [
+    {
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
+      "scope": "Estatal / Particulares",
+      "title": "Programa Auto+ Linea 1: el plazo real es el 31 de diciembre de 2026",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares se puede solicitar hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto de 350 millones de euros que se concede por orden de presentacion hasta agotarse si ocurre antes de esa fecha. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
+      "sourceLabel": "La Moncloa / Ministerio de Industria y Turismo",
+      "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2026/plan-auto-plus-requisitos.aspx"
+    },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
       "scope": "Pais Vasco",
       "title": "Ayuda EVE a la eficiencia energetica en la industria",
-      "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por proyecto.",
+      "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por actuacion y beneficiario.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
-    },
-    {
-      "severity": "crit",
-      "badge": "Cierra pronto",
-      "scope": "Estatal / Particulares",
-      "title": "Programa Auto+ Linea 1: quedan 7 dias para el plazo de solicitud",
-      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares tiene como fecha limite de solicitud el 15 de octubre de 2026, prorrogable hasta el 31 de diciembre solo si el credito de la convocatoria tiene la condicion de incorporable. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
-      "sourceLabel": "Real Decreto 609/2026 (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
     },
     {
       "severity": "warn",
@@ -33,7 +33,7 @@
       "badge": "Convocatoria abierta",
       "scope": "Estatal / Pymes y empresas",
       "title": "Programa INNOVAE del IDAE: 115 millones para eficiencia energetica",
-      "description": "El programa INNOVAE del IDAE, dotado con 115 millones de euros para proyectos de movilidad sostenible, sector industrial, rehabilitacion de edificios terciarios y sustitucion de equipos de frio, acepta solicitudes hasta el 18 de noviembre de 2026 a las 12:00.",
+      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026.",
       "sourceLabel": "IDAE",
       "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
     },
