@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-19",
   "urgentDeadlines": [
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
-      "scope": "Estatal / Particulares",
-      "title": "Programa Auto+ Linea 1: el plazo real es el 31 de diciembre de 2026",
-      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares se puede solicitar hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto de 350 millones de euros que se concede por orden de presentacion hasta agotarse si ocurre antes de esa fecha. Los importes maximos son 4.500 euros por turismo, 5.000 euros por furgoneta, 1.100 euros por motocicleta electrica y 1.500 euros por cuadriciclo.",
-      "sourceLabel": "La Moncloa / Ministerio de Industria y Turismo",
-      "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2026/plan-auto-plus-requisitos.aspx"
+      "scope": "Pais Vasco / Pymes",
+      "title": "EVE: ayuda a auditorias energeticas en pyme, plazo hasta el 31 de diciembre",
+      "description": "El Ente Vasco de la Energia financia el 50 por ciento del coste de una auditoria energetica integral en pymes industriales y del sector terciario vascas. Las solicitudes se pueden presentar hasta el 31 de diciembre de 2026, o antes si se agota el presupuesto disponible.",
+      "sourceLabel": "EVE - Ente Vasco de la Energia",
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
     },
     {
       "severity": "warn",
@@ -22,9 +22,18 @@
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
+      "scope": "Estatal / Particulares",
+      "title": "Programa Auto+ Linea 1: solicitudes hasta el 31 de diciembre de 2026",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares se puede solicitar hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto de 350 millones de euros que se concede por orden de presentacion hasta agotarse si ocurre antes de esa fecha.",
+      "sourceLabel": "La Moncloa / Ministerio de Industria y Turismo",
+      "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2026/plan-auto-plus-requisitos.aspx"
+    },
+    {
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
       "scope": "Estatal / Autonomos y empresas",
       "title": "Programa Auto+ Linea 2: ayudas para autonomos y empresas",
-      "description": "La linea del programa Auto+ para autonomos y empresas, con 50 millones de euros de presupuesto, acepta solicitudes desde el 1 de octubre a las 10:00 hasta el 31 de diciembre de 2026 a las 14:00, por orden de presentacion.",
+      "description": "La linea del programa Auto+ para autonomos y empresas acepta solicitudes desde el 1 de octubre a las 10:00 hasta el 31 de diciembre de 2026 a las 14:00, por orden de presentacion. El presupuesto total es de 50 millones de euros: 42 millones para empresas privadas y 8 millones para autonomos.",
       "sourceLabel": "Extracto de convocatoria (BOE)",
       "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30841"
     },
@@ -42,7 +51,7 @@
       "badge": "Cambio en vigor",
       "scope": "Estatal",
       "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre",
-      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
+      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento del valor aplicado en la resolucion de junio de 2026; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
       "sourceLabel": "Real Decreto-ley 25/2026 (BOE)",
       "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
     }
