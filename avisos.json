@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "urgentDeadlines": [
     {
       "severity": "warn",
@@ -18,6 +18,15 @@
       "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por actuacion y beneficiario.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
+    },
+    {
+      "severity": "warn",
+      "badge": "Convalidado por el Congreso",
+      "scope": "Estatal",
+      "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre, ya convalidado",
+      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento del valor aplicado en la resolucion de junio de 2026. El Congreso de los Diputados convalido esta medida (Real Decreto-ley 25/2026) en su sesion del 16 de octubre de 2026; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
+      "sourceLabel": "BOE - Resolucion de convalidacion del Congreso de los Diputados",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21788"
     },
     {
       "severity": "warn",
@@ -45,15 +54,6 @@
       "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026.",
       "sourceLabel": "IDAE",
       "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
-    },
-    {
-      "severity": "warn",
-      "badge": "Cambio en vigor",
-      "scope": "Estatal",
-      "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre",
-      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento del valor aplicado en la resolucion de junio de 2026; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
-      "sourceLabel": "Real Decreto-ley 25/2026 (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
     }
   ]
 }
