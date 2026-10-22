@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "urgentDeadlines": [
     {
       "severity": "warn",
@@ -21,12 +21,12 @@
     },
     {
       "severity": "warn",
-      "badge": "Convalidado por el Congreso",
-      "scope": "Estatal",
-      "title": "Tope a la subida de la tarifa regulada de gas (TUR) en octubre, ya convalidado",
-      "description": "El incremento del coste de la materia prima de la tarifa regulada de gas en la revision de octubre de 2026 queda limitado al 35 por ciento del valor aplicado en la resolucion de junio de 2026. El Congreso de los Diputados convalido esta medida (Real Decreto-ley 25/2026) en su sesion del 16 de octubre de 2026; la parte no aplicada ahora se recuperara mediante incrementos graduales en las revisiones trimestrales posteriores a partir de enero de 2027.",
-      "sourceLabel": "BOE - Resolucion de convalidacion del Congreso de los Diputados",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21788"
+      "badge": "Cierra pronto",
+      "scope": "Estatal / Pymes y empresas",
+      "title": "Programa INNOVAE del IDAE: 115 millones para eficiencia energetica",
+      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026.",
+      "sourceLabel": "IDAE",
+      "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
     },
     {
       "severity": "warn",
@@ -36,24 +36,6 @@
       "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares se puede solicitar hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto de 350 millones de euros que se concede por orden de presentacion hasta agotarse si ocurre antes de esa fecha.",
       "sourceLabel": "La Moncloa / Ministerio de Industria y Turismo",
       "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2026/plan-auto-plus-requisitos.aspx"
-    },
-    {
-      "severity": "warn",
-      "badge": "Convocatoria abierta",
-      "scope": "Estatal / Autonomos y empresas",
-      "title": "Programa Auto+ Linea 2: ayudas para autonomos y empresas",
-      "description": "La linea del programa Auto+ para autonomos y empresas acepta solicitudes desde el 1 de octubre a las 10:00 hasta el 31 de diciembre de 2026 a las 14:00, por orden de presentacion. El presupuesto total es de 50 millones de euros: 42 millones para empresas privadas y 8 millones para autonomos.",
-      "sourceLabel": "Extracto de convocatoria (BOE)",
-      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30841"
-    },
-    {
-      "severity": "warn",
-      "badge": "Convocatoria abierta",
-      "scope": "Estatal / Pymes y empresas",
-      "title": "Programa INNOVAE del IDAE: 115 millones para eficiencia energetica",
-      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026.",
-      "sourceLabel": "IDAE",
-      "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
     }
   ]
 }
