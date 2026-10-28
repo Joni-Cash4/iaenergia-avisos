@@ -1,6 +1,15 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "urgentDeadlines": [
+    {
+      "severity": "warn",
+      "badge": "Aprobado, abre 5 de noviembre",
+      "scope": "Pais Vasco",
+      "title": "Eguzki Hotz: nuevo programa vasco de climatizacion renovable y autoconsumo, 120 millones de euros",
+      "description": "El Gobierno Vasco aprobo el 27 de octubre de 2026 el programa Eguzki Hotz, gestionado por el Ente Vasco de la Energia, con una previsión global de 120 millones de euros para climatizacion vinculada a generacion renovable propia (fotovoltaica, aerotermia o geotermia). Las solicitudes podran presentarse desde el 5 de noviembre de 2026 hasta agotar el presupuesto.",
+      "sourceLabel": "Irekia - Gobierno Vasco",
+      "sourceUrl": "https://www.irekia.euskadi.eus/es/news/113767-gobierno-vasco-activa-eguzki-hotz-con-120-millones-euros-para-impulsar-climatizacion-sostenible-autoconsumo-consejo-gobierno-2026"
+    },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
