@@ -1,15 +1,6 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "urgentDeadlines": [
-    {
-      "severity": "warn",
-      "badge": "Convocatoria abierta",
-      "scope": "Pais Vasco / Pymes",
-      "title": "EVE: ayuda a auditorias energeticas en pyme, plazo hasta el 31 de diciembre",
-      "description": "El Ente Vasco de la Energia financia el 50 por ciento del coste de una auditoria energetica integral en pymes industriales y del sector terciario vascas. Las solicitudes se pueden presentar hasta el 31 de diciembre de 2026, o antes si se agota el presupuesto disponible.",
-      "sourceLabel": "EVE - Ente Vasco de la Energia",
-      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
-    },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
@@ -18,6 +9,15 @@
       "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 (o agotamiento de fondos) una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por actuacion y beneficiario.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
       "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
+    },
+    {
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
+      "scope": "Pais Vasco / Pymes",
+      "title": "EVE: ayuda a auditorias energeticas en pyme, plazo hasta el 31 de diciembre",
+      "description": "El Ente Vasco de la Energia financia el 50 por ciento del coste de una auditoria energetica integral en pymes industriales y del sector terciario vascas. Las solicitudes se pueden presentar hasta el 31 de diciembre de 2026, o antes si se agota el presupuesto disponible.",
+      "sourceLabel": "EVE - Ente Vasco de la Energia",
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
     },
     {
       "severity": "warn",
@@ -36,6 +36,15 @@
       "description": "La ayuda a la compra de vehiculo electrico o electrificado para particulares se puede solicitar hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto de 350 millones de euros que se concede por orden de presentacion hasta agotarse si ocurre antes de esa fecha.",
       "sourceLabel": "La Moncloa / Ministerio de Industria y Turismo",
       "sourceUrl": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2026/plan-auto-plus-requisitos.aspx"
+    },
+    {
+      "severity": "warn",
+      "badge": "Convocatoria abierta",
+      "scope": "Estatal / Autonomos y empresas",
+      "title": "Programa Auto+ Linea 2: solicitudes hasta el 31 de diciembre de 2026",
+      "description": "La ayuda a la compra de vehiculo electrico o electrificado para autonomos y empresas se puede solicitar desde el 1 de octubre de 2026 a las 10:00 horas hasta el 31 de diciembre de 2026 a las 14:00 horas, con un presupuesto total de 50 millones de euros (42 millones para empresas privadas y 8 millones para autonomos) que se concede por orden de presentacion.",
+      "sourceLabel": "BOE",
+      "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30841"
     }
   ]
 }
