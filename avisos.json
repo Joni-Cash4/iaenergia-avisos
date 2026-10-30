@@ -1,6 +1,15 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "urgentDeadlines": [
+    {
+      "severity": "warn",
+      "badge": "Aprobado, abre el 5 de noviembre",
+      "scope": "Pais Vasco",
+      "title": "Eguzki Hotz: nuevo programa vasco de 120 millones para climatizacion sostenible ligada al autoconsumo",
+      "description": "El Gobierno Vasco aprobo el 27 de octubre de 2026 el programa Eguzki Hotz, dotado con 120 millones de euros, para climatizacion sostenible (aerotermia, geotermia) y fotovoltaica vinculadas a una fuente propia de generacion renovable, como el autoconsumo o una comunidad energetica. Las solicitudes podran presentarse desde el 5 de noviembre de 2026 hasta agotar el presupuesto, con fecha limite maxima el 29 de septiembre de 2028.",
+      "sourceLabel": "EVE - Ente Vasco de la Energia / Euskadi.eus",
+      "sourceUrl": "https://www.eve.eus/ayudas-y-servicios-de-valor/eguzki-hotz/"
+    },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
