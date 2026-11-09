@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-09",
   "urgentDeadlines": [
     {
       "severity": "warn",
-      "badge": "Convocatoria abierta hoy",
+      "badge": "Convocatoria abierta",
       "scope": "Pais Vasco",
-      "title": "Eguzki Hotz: ya se pueden solicitar los 120 millones para climatizacion sostenible ligada al autoconsumo",
-      "description": "El Gobierno Vasco aprobo el 27 de octubre de 2026 el programa Eguzki Hotz, dotado con 120 millones de euros, para climatizacion sostenible (aerotermia, geotermia) y fotovoltaica vinculadas a una fuente propia de generacion renovable, como el autoconsumo o una comunidad energetica. Las solicitudes estan abiertas desde hoy, 5 de noviembre de 2026, hasta agotar el presupuesto, con fecha limite maxima el 29 de septiembre de 2028.",
+      "title": "Eguzki Hotz: ayuda de 120 millones para climatizacion sostenible ligada al autoconsumo",
+      "description": "El Gobierno Vasco, a traves del Ente Vasco de la Energia (EVE), tiene abierto desde el 5 de noviembre de 2026 el programa Eguzki Hotz, dotado con 120 millones de euros, para climatizacion sostenible (aerotermia, geotermia) y fotovoltaica vinculadas a una fuente propia de generacion renovable, como el autoconsumo o una comunidad energetica. Las solicitudes se pueden presentar hasta agotar el presupuesto, con fecha limite maxima el 29 de septiembre de 2028.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
-      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
+      "sourceUrl": "https://www.eve.eus/ayudas-y-servicios-de-valor/eguzki-hotz/"
     },
     {
       "severity": "warn",
@@ -17,23 +17,23 @@
       "title": "Ayuda EVE a la eficiencia energetica en la industria",
       "description": "El Ente Vasco de la Energia mantiene abierta desde el 19 de mayo de 2026 hasta el 30 de junio de 2027 una convocatoria de 52 millones de euros para actuaciones de eficiencia energetica en empresas industriales vascas, con una ayuda de entre el 15% y el 65% de la inversion segun el tipo de actuacion y el tamano de la empresa, hasta un maximo de 4 millones de euros por actuacion y beneficiario.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
-      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-actuaciones-en-eficiencia-energetica-en-la-industria/"
     },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
       "scope": "Pais Vasco / Pymes",
       "title": "EVE: ayuda a auditorias energeticas en pyme, plazo hasta el 31 de diciembre",
-      "description": "El Ente Vasco de la Energia financia el 50 por ciento del coste de una auditoria energetica integral en pymes industriales y del sector terciario vascas. Las solicitudes se pueden presentar hasta el 31 de diciembre de 2026, o antes si se agota el presupuesto disponible.",
+      "description": "El Ente Vasco de la Energia financia el 50 por ciento del coste de una auditoria energetica integral en pymes industriales y del sector terciario vascas, con un coste subvencionable maximo de entre 3.300 y 9.800 euros segun el consumo energetico anual de la empresa. Las solicitudes se pueden presentar hasta el 31 de diciembre de 2026, o antes si se agota el presupuesto disponible.",
       "sourceLabel": "EVE - Ente Vasco de la Energia",
-      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/"
+      "sourceUrl": "https://www.eve.eus/programa-de-ayudas/programa-de-ayudas-a-la-realizacion-de-auditorias-energeticas-integrales-en-pyme-de-los-sectores-industrial-y-terciario-2/"
     },
     {
       "severity": "warn",
-      "badge": "Cierra en 13 dias",
+      "badge": "Cierra en 9 dias",
       "scope": "Estatal / Pymes y empresas",
       "title": "Programa INNOVAE del IDAE: 115 millones para eficiencia energetica",
-      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026.",
+      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026. La concesion es en regimen de concurrencia competitiva, no por simple orden de llegada.",
       "sourceLabel": "IDAE",
       "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
     },
