@@ -1,15 +1,6 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "urgentDeadlines": [
-    {
-      "severity": "crit",
-      "badge": "Cierra hoy",
-      "scope": "Estatal / Pymes y empresas",
-      "title": "Programa INNOVAE del IDAE: 115 millones para eficiencia energetica, cierra hoy a las 12:00h",
-      "description": "El programa INNOVAE del IDAE, con una dotacion presupuestaria maxima inicial de 115 millones de euros para proyectos de movilidad sostenible, sector industrial, renovacion de edificios terciarios a cero emisiones y sustitucion de generadores de frio, acepta solicitudes desde las 9:00 del 15 de septiembre de 2026 hasta las 12:00 del 18 de noviembre de 2026. La concesion es en regimen de concurrencia competitiva, no por simple orden de llegada.",
-      "sourceLabel": "IDAE",
-      "sourceUrl": "https://sede.idae.gob.es/tramites-servicios/primera-convocatoria-del-programa-de-incentivos-proyectos-singulares-innovadores"
-    },
     {
       "severity": "warn",
       "badge": "Convocatoria abierta",
